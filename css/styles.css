@@ -1,5 +1,5 @@
 div.topcontainer{
-    height: 660px;
+    height: 744px;
 
 }
 body{
@@ -18,7 +18,7 @@ h1{
     font-size:5.625rem ;
     margin-bottom: 0px;
     color: #66BFBF;
-    line-height: 2;
+    
 }
 h2{
     color: #66bfbf;
@@ -51,9 +51,12 @@ h2 h3{
 }
 .mount{
 margin:auto;
-
-
+position:sticky;
+    
 }
+
+
+
 .topcontainer{
     background-color: #ccf2f4;
     padding-top: 100px;
